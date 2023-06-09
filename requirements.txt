@@ -6,3 +6,4 @@ pycodestyle
 sqlparse
 tomli
 tzdata
+uvicorn
